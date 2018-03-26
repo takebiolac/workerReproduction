@@ -1,0 +1,1518 @@
+
+Variable 'skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Number of sites in datasetfilter is not divisible by the unit - will truncate to the nearest integer
+TAA was encountered in sequence EU1629801 at site pattern 0. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629271 at site pattern 1. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629541 at site pattern 2. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629271 at site pattern 3. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629251 at site pattern 4. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629271 at site pattern 5. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629311 at site pattern 6. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629251 at site pattern 7. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629991 at site pattern 8. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AF2509551 at site pattern 9. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629491 at site pattern 10. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 11. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629271 at site pattern 12. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629521 at site pattern 13. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629291 at site pattern 14. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629251 at site pattern 15. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629271 at site pattern 16. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629331 at site pattern 17. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629341 at site pattern 18. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629381 at site pattern 19. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629281 at site pattern 20. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629261 at site pattern 21. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629361 at site pattern 22. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629291 at site pattern 23. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629311 at site pattern 24. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629481 at site pattern 25. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 26. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629761 at site pattern 27. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629351 at site pattern 28. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629251 at site pattern 29. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629301 at site pattern 30. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629331 at site pattern 31. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629291 at site pattern 32. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629311 at site pattern 33. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629341 at site pattern 34. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629301 at site pattern 35. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629331 at site pattern 36. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629251 at site pattern 37. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629401 at site pattern 38. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629391 at site pattern 39. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629351 at site pattern 40. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629251 at site pattern 41. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629491 at site pattern 42. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629351 at site pattern 43. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629251 at site pattern 44. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AF2509551 at site pattern 45. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629341 at site pattern 46. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629431 at site pattern 47. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629631 at site pattern 48. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629281 at site pattern 49. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629461 at site pattern 50. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629691 at site pattern 51. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629391 at site pattern 52. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629311 at site pattern 53. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629251 at site pattern 54. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629501 at site pattern 55. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629351 at site pattern 56. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629251 at site pattern 57. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629401 at site pattern 58. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629301 at site pattern 59. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629301 at site pattern 60. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629251 at site pattern 61. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629401 at site pattern 62. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629301 at site pattern 63. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629331 at site pattern 64. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629491 at site pattern 65. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AF2509551 at site pattern 66. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629831 at site pattern 67. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629541 at site pattern 68. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629401 at site pattern 69. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629301 at site pattern 70. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629331 at site pattern 71. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629761 at site pattern 72. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629271 at site pattern 73. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629251 at site pattern 74. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629481 at site pattern 75. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629341 at site pattern 76. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629291 at site pattern 77. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629311 at site pattern 78. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629271 at site pattern 79. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AF2509551 at site pattern 80. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629271 at site pattern 81. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AF2509551 at site pattern 82. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629351 at site pattern 83. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629381 at site pattern 84. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629301 at site pattern 85. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629271 at site pattern 86. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629281 at site pattern 87. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629421 at site pattern 88. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AF2509551 at site pattern 89. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629381 at site pattern 90. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629351 at site pattern 91. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629451 at site pattern 92. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629311 at site pattern 93. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629491 at site pattern 94. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 95. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629251 at site pattern 96. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629611 at site pattern 97. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629291 at site pattern 98. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629291 at site pattern 99. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629331 at site pattern 100. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629371 at site pattern 101. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629301 at site pattern 102. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629271 at site pattern 103. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 104. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629401 at site pattern 105. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629311 at site pattern 106. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629771 at site pattern 107. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629431 at site pattern 108. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AF2509551 at site pattern 109. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629331 at site pattern 110. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629401 at site pattern 111. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629251 at site pattern 112. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AF2509551 at site pattern 113. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629451 at site pattern 114. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 115. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629281 at site pattern 116. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 117. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 118. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AF2509551 at site pattern 119. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AF2509551 at site pattern 120. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629311 at site pattern 121. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 122. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629441 at site pattern 123. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629391 at site pattern 124. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629251 at site pattern 125. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629281 at site pattern 126. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 127. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629451 at site pattern 128. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 129. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629391 at site pattern 130. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629391 at site pattern 131. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629401 at site pattern 132. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629561 at site pattern 133. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629291 at site pattern 134. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629451 at site pattern 135. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629311 at site pattern 136. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AF2509551 at site pattern 137. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629451 at site pattern 138. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629251 at site pattern 139. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629471 at site pattern 140. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629341 at site pattern 141. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629331 at site pattern 142. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629251 at site pattern 143. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629251 at site pattern 144. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629391 at site pattern 145. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629251 at site pattern 146. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629351 at site pattern 147. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629291 at site pattern 148. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629341 at site pattern 149. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629301 at site pattern 150. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629441 at site pattern 151. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629251 at site pattern 152. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629281 at site pattern 153. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629311 at site pattern 154. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence EU1629451 at site pattern 155. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AF2509551 at site pattern 156. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 157. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629301 at site pattern 158. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629271 at site pattern 159. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629341 at site pattern 160. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629281 at site pattern 161. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629391 at site pattern 162. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629421 at site pattern 163. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 164. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629271 at site pattern 165. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AF2509551 at site pattern 166. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629341 at site pattern 167. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629521 at site pattern 168. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629301 at site pattern 169. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629441 at site pattern 170. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629351 at site pattern 171. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629261 at site pattern 172. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629461 at site pattern 173. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629561 at site pattern 174. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629431 at site pattern 175. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629251 at site pattern 176. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629441 at site pattern 177. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence EU1629401 at site pattern 178. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence EU1629481 at site pattern 183. All corresponding alignment columns will be removed from subsequent analyses.
+The following sites are being omitted:{0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,549,550,551}
+Overwritten previously defined function:'GaussLaguerreQuardature'
+Overwritten previously defined function:'GammaQuadWeight'
+Variable 'SKIP_MODEL_PARAMETER_LIST' was not initialized prior to being used
+Variable '_WRAP_PASSTHROUGH_FLAG_' was not initialized prior to being used
+Variable 'PROMPT_FOR_FILE' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+No nodel was assigned to EU1629701
+EU1629701 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629861
+EU1629861 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629721
+EU1629721 has 0 parameters - branch length not assigned
+No nodel was assigned to Node4
+Node4 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629821
+EU1629821 has 0 parameters - branch length not assigned
+No nodel was assigned to Node3
+Node3 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629801
+EU1629801 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629671
+EU1629671 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1630011
+EU1630011 has 0 parameters - branch length not assigned
+No nodel was assigned to Node13
+Node13 has 0 parameters - branch length not assigned
+No nodel was assigned to Node11
+Node11 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629961
+EU1629961 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629741
+EU1629741 has 0 parameters - branch length not assigned
+No nodel was assigned to Node16
+Node16 has 0 parameters - branch length not assigned
+No nodel was assigned to Node10
+Node10 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629691
+EU1629691 has 0 parameters - branch length not assigned
+No nodel was assigned to Node9
+Node9 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629491
+EU1629491 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629521
+EU1629521 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629751
+EU1629751 has 0 parameters - branch length not assigned
+No nodel was assigned to Node27
+Node27 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629581
+EU1629581 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629531
+EU1629531 has 0 parameters - branch length not assigned
+No nodel was assigned to Node35
+Node35 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629481
+EU1629481 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629271
+EU1629271 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629261
+EU1629261 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629251
+EU1629251 has 0 parameters - branch length not assigned
+No nodel was assigned to Node43
+Node43 has 0 parameters - branch length not assigned
+No nodel was assigned to Node41
+Node41 has 0 parameters - branch length not assigned
+No nodel was assigned to Node39
+Node39 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629571
+EU1629571 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629401
+EU1629401 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629551
+EU1629551 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629391
+EU1629391 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629411
+EU1629411 has 0 parameters - branch length not assigned
+No nodel was assigned to Node54
+Node54 has 0 parameters - branch length not assigned
+No nodel was assigned to Node52
+Node52 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629421
+EU1629421 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629431
+EU1629431 has 0 parameters - branch length not assigned
+No nodel was assigned to Node57
+Node57 has 0 parameters - branch length not assigned
+No nodel was assigned to Node51
+Node51 has 0 parameters - branch length not assigned
+No nodel was assigned to Node49
+Node49 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629561
+EU1629561 has 0 parameters - branch length not assigned
+No nodel was assigned to Node48
+Node48 has 0 parameters - branch length not assigned
+No nodel was assigned to Node46
+Node46 has 0 parameters - branch length not assigned
+No nodel was assigned to Node38
+Node38 has 0 parameters - branch length not assigned
+No nodel was assigned to Node34
+Node34 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629511
+EU1629511 has 0 parameters - branch length not assigned
+No nodel was assigned to Node33
+Node33 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629451
+EU1629451 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629291
+EU1629291 has 0 parameters - branch length not assigned
+No nodel was assigned to Node63
+Node63 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629951
+EU1629951 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629351
+EU1629351 has 0 parameters - branch length not assigned
+No nodel was assigned to Node68
+Node68 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629471
+EU1629471 has 0 parameters - branch length not assigned
+No nodel was assigned to Node67
+Node67 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629301
+EU1629301 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629331
+EU1629331 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629441
+EU1629441 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629361
+EU1629361 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629381
+EU1629381 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629341
+EU1629341 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629311
+EU1629311 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629321
+EU1629321 has 0 parameters - branch length not assigned
+No nodel was assigned to Node85
+Node85 has 0 parameters - branch length not assigned
+No nodel was assigned to Node83
+Node83 has 0 parameters - branch length not assigned
+No nodel was assigned to Node81
+Node81 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629371
+EU1629371 has 0 parameters - branch length not assigned
+No nodel was assigned to Node80
+Node80 has 0 parameters - branch length not assigned
+No nodel was assigned to Node78
+Node78 has 0 parameters - branch length not assigned
+No nodel was assigned to Node76
+Node76 has 0 parameters - branch length not assigned
+No nodel was assigned to Node74
+Node74 has 0 parameters - branch length not assigned
+No nodel was assigned to Node72
+Node72 has 0 parameters - branch length not assigned
+No nodel was assigned to Node66
+Node66 has 0 parameters - branch length not assigned
+No nodel was assigned to Node62
+Node62 has 0 parameters - branch length not assigned
+No nodel was assigned to Node32
+Node32 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629911
+EU1629911 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1630041
+EU1630041 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629611
+EU1629611 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629621
+EU1629621 has 0 parameters - branch length not assigned
+No nodel was assigned to Node96
+Node96 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629901
+EU1629901 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629651
+EU1629651 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629841
+EU1629841 has 0 parameters - branch length not assigned
+No nodel was assigned to Node101
+Node101 has 0 parameters - branch length not assigned
+No nodel was assigned to Node99
+Node99 has 0 parameters - branch length not assigned
+No nodel was assigned to Node95
+Node95 has 0 parameters - branch length not assigned
+No nodel was assigned to Node93
+Node93 has 0 parameters - branch length not assigned
+No nodel was assigned to Node91
+Node91 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629731
+EU1629731 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629791
+EU1629791 has 0 parameters - branch length not assigned
+No nodel was assigned to Node105
+Node105 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629601
+EU1629601 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629891
+EU1629891 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629711
+EU1629711 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629881
+EU1629881 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629771
+EU1629771 has 0 parameters - branch length not assigned
+No nodel was assigned to Node115
+Node115 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1630031
+EU1630031 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629501
+EU1629501 has 0 parameters - branch length not assigned
+No nodel was assigned to Node119
+Node119 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629641
+EU1629641 has 0 parameters - branch length not assigned
+No nodel was assigned to Node118
+Node118 has 0 parameters - branch length not assigned
+No nodel was assigned to Node114
+Node114 has 0 parameters - branch length not assigned
+No nodel was assigned to Node112
+Node112 has 0 parameters - branch length not assigned
+No nodel was assigned to Node110
+Node110 has 0 parameters - branch length not assigned
+No nodel was assigned to Node108
+Node108 has 0 parameters - branch length not assigned
+No nodel was assigned to Node104
+Node104 has 0 parameters - branch length not assigned
+No nodel was assigned to Node90
+Node90 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1630001
+EU1630001 has 0 parameters - branch length not assigned
+No nodel was assigned to Node89
+Node89 has 0 parameters - branch length not assigned
+No nodel was assigned to Node31
+Node31 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629921
+EU1629921 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629871
+EU1629871 has 0 parameters - branch length not assigned
+No nodel was assigned to Node124
+Node124 has 0 parameters - branch length not assigned
+No nodel was assigned to Node30
+Node30 has 0 parameters - branch length not assigned
+No nodel was assigned to Node26
+Node26 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629591
+EU1629591 has 0 parameters - branch length not assigned
+No nodel was assigned to Node25
+Node25 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629781
+EU1629781 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629831
+EU1629831 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629851
+EU1629851 has 0 parameters - branch length not assigned
+No nodel was assigned to Node131
+Node131 has 0 parameters - branch length not assigned
+No nodel was assigned to Node129
+Node129 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629681
+EU1629681 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1630021
+EU1630021 has 0 parameters - branch length not assigned
+No nodel was assigned to Node137
+Node137 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629281
+EU1629281 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629941
+EU1629941 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629541
+EU1629541 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629461
+EU1629461 has 0 parameters - branch length not assigned
+No nodel was assigned to Node144
+Node144 has 0 parameters - branch length not assigned
+No nodel was assigned to Node142
+Node142 has 0 parameters - branch length not assigned
+No nodel was assigned to Node140
+Node140 has 0 parameters - branch length not assigned
+No nodel was assigned to Node136
+Node136 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629991
+EU1629991 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629971
+EU1629971 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629661
+EU1629661 has 0 parameters - branch length not assigned
+No nodel was assigned to Node149
+Node149 has 0 parameters - branch length not assigned
+No nodel was assigned to Node147
+Node147 has 0 parameters - branch length not assigned
+No nodel was assigned to Node135
+Node135 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629981
+EU1629981 has 0 parameters - branch length not assigned
+No nodel was assigned to Node134
+Node134 has 0 parameters - branch length not assigned
+No nodel was assigned to Node128
+Node128 has 0 parameters - branch length not assigned
+No nodel was assigned to Node24
+Node24 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629761
+EU1629761 has 0 parameters - branch length not assigned
+No nodel was assigned to Node23
+Node23 has 0 parameters - branch length not assigned
+No nodel was assigned to Node21
+Node21 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629811
+EU1629811 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629931
+EU1629931 has 0 parameters - branch length not assigned
+No nodel was assigned to EU1629631
+EU1629631 has 0 parameters - branch length not assigned
+No nodel was assigned to Node156
+Node156 has 0 parameters - branch length not assigned
+No nodel was assigned to Node154
+Node154 has 0 parameters - branch length not assigned
+No nodel was assigned to Node20
+Node20 has 0 parameters - branch length not assigned
+No nodel was assigned to Node8
+Node8 has 0 parameters - branch length not assigned
+No nodel was assigned to Node2
+Node2 has 0 parameters - branch length not assigned
+No nodel was assigned to AF2509551
+AF2509551 has 0 parameters - branch length not assigned
+Reroot was called with an unrooted tree. Rerooting was still performed.
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Model MG94model assigned to EU1629701
+EU1629701 has 2 parameters - branch length not assigned
+Model MG94model assigned to AF2509551
+AF2509551 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node10
+Node10 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629861
+EU1629861 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629721
+EU1629721 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node14
+Node14 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629821
+EU1629821 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node13
+Node13 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node9
+Node9 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629801
+EU1629801 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629671
+EU1629671 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1630011
+EU1630011 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node22
+Node22 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node20
+Node20 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629961
+EU1629961 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629741
+EU1629741 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node25
+Node25 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node19
+Node19 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629691
+EU1629691 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node18
+Node18 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node8
+Node8 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629811
+EU1629811 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629931
+EU1629931 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629631
+EU1629631 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node31
+Node31 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node29
+Node29 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node7
+Node7 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629491
+EU1629491 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node6
+Node6 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629761
+EU1629761 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node5
+Node5 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629781
+EU1629781 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629831
+EU1629831 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629851
+EU1629851 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node39
+Node39 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node37
+Node37 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629681
+EU1629681 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1630021
+EU1630021 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node45
+Node45 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629281
+EU1629281 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629941
+EU1629941 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629541
+EU1629541 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629461
+EU1629461 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node52
+Node52 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node50
+Node50 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node48
+Node48 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node44
+Node44 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629991
+EU1629991 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629971
+EU1629971 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629661
+EU1629661 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node57
+Node57 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node55
+Node55 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node43
+Node43 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629981
+EU1629981 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node42
+Node42 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node36
+Node36 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node4
+Node4 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629591
+EU1629591 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node3
+Node3 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629521
+EU1629521 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629751
+EU1629751 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node62
+Node62 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node2
+Node2 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629921
+EU1629921 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629871
+EU1629871 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node65
+Node65 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node1
+Node1 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629581
+EU1629581 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629531
+EU1629531 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node72
+Node72 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629481
+EU1629481 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629271
+EU1629271 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629261
+EU1629261 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629251
+EU1629251 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node80
+Node80 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node78
+Node78 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node76
+Node76 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629571
+EU1629571 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629401
+EU1629401 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629551
+EU1629551 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629391
+EU1629391 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629411
+EU1629411 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node91
+Node91 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node89
+Node89 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629421
+EU1629421 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629431
+EU1629431 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node94
+Node94 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node88
+Node88 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node86
+Node86 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629561
+EU1629561 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node85
+Node85 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node83
+Node83 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node75
+Node75 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node71
+Node71 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629511
+EU1629511 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node70
+Node70 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629451
+EU1629451 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629291
+EU1629291 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node100
+Node100 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629951
+EU1629951 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629351
+EU1629351 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node105
+Node105 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629471
+EU1629471 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node104
+Node104 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629301
+EU1629301 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629331
+EU1629331 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629441
+EU1629441 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629361
+EU1629361 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629381
+EU1629381 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629341
+EU1629341 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629311
+EU1629311 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629321
+EU1629321 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node122
+Node122 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node120
+Node120 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node118
+Node118 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629371
+EU1629371 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node117
+Node117 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node115
+Node115 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node113
+Node113 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node111
+Node111 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node109
+Node109 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node103
+Node103 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node99
+Node99 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node69
+Node69 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629911
+EU1629911 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1630041
+EU1630041 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629611
+EU1629611 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629621
+EU1629621 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node133
+Node133 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629901
+EU1629901 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629651
+EU1629651 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629841
+EU1629841 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node138
+Node138 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node136
+Node136 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node132
+Node132 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node130
+Node130 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node128
+Node128 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629731
+EU1629731 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629791
+EU1629791 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node142
+Node142 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629601
+EU1629601 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629891
+EU1629891 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629711
+EU1629711 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629881
+EU1629881 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629771
+EU1629771 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node152
+Node152 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1630031
+EU1630031 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629501
+EU1629501 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node156
+Node156 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1629641
+EU1629641 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node155
+Node155 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node151
+Node151 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node149
+Node149 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node147
+Node147 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node145
+Node145 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node141
+Node141 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node127
+Node127 has 2 parameters - branch length not assigned
+Model MG94model assigned to EU1630001
+EU1630001 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node126
+Node126 has 2 parameters - branch length not assigned
+Model MG94model assigned to Node68
+Node68 has 2 parameters - branch length not assigned
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+The tips of the tree:givenTree were matched with the species names from the data as follows {46,0,62,48,58,56,43,77,72,50,45,57,69,39,25,52,54,59,61,44,78,4,70,30,22,75,73,42,74,35,28,51,68,63,34,29,24,3,2,1,33,16,31,15,17,18,19,32,27,21,5,71,11,23,6,9,20,12,14,10,7,8,13,67,80,37,38,66,41,60,49,55,36,65,47,64,53,79,26,40,76}
+
+Pseudo-optimal path's cost 123 vs 123 for 1..k=> a 1 x improvement
+Partition  reversible model flag computed as 1
+Variable 'lf' was not initialized prior to being used
+Variable 'givenTree.EU1629701.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629701.synRate' was not initialized prior to being used
+Variable 'givenTree.AF2509551.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.AF2509551.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629861.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629861.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629721.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629721.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629821.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629821.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629801.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629801.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629671.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629671.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1630011.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1630011.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629961.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629961.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629741.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629741.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629691.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629691.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629811.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629811.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629931.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629931.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629631.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629631.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629491.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629491.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629761.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629761.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629781.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629781.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629831.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629831.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629851.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629851.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629681.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629681.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1630021.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1630021.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629281.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629281.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629941.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629941.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629541.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629541.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629461.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629461.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629991.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629991.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629971.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629971.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629661.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629661.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629981.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629981.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629591.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629591.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629521.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629521.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629751.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629751.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629921.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629921.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629871.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629871.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629581.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629581.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629531.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629531.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629481.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629481.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629271.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629271.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629261.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629261.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629251.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629251.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629571.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629571.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629401.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629401.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629551.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629551.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629391.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629391.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629411.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629411.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629421.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629421.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629431.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629431.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629561.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629561.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629511.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629511.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629451.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629451.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629291.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629291.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629951.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629951.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629351.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629351.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629471.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629471.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629301.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629301.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629331.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629331.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629441.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629441.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629361.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629361.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629381.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629381.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629341.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629341.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629311.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629311.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629321.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629321.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629371.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629371.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629911.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629911.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1630041.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1630041.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629611.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629611.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629621.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629621.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629901.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629901.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629651.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629651.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629841.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629841.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629731.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629731.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629791.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629791.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629601.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629601.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629891.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629891.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629711.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629711.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629881.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629881.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629771.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629771.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1630031.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1630031.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629501.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629501.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1629641.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1629641.synRate' was not initialized prior to being used
+Variable 'givenTree.EU1630001.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.EU1630001.synRate' was not initialized prior to being used
+Variable 'givenTree.Node10.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node10.synRate' was not initialized prior to being used
+Variable 'givenTree.Node14.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node14.synRate' was not initialized prior to being used
+Variable 'givenTree.Node13.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node13.synRate' was not initialized prior to being used
+Variable 'givenTree.Node9.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node9.synRate' was not initialized prior to being used
+Variable 'givenTree.Node22.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node22.synRate' was not initialized prior to being used
+Variable 'givenTree.Node20.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node20.synRate' was not initialized prior to being used
+Variable 'givenTree.Node25.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node25.synRate' was not initialized prior to being used
+Variable 'givenTree.Node19.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node19.synRate' was not initialized prior to being used
+Variable 'givenTree.Node18.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node18.synRate' was not initialized prior to being used
+Variable 'givenTree.Node8.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node8.synRate' was not initialized prior to being used
+Variable 'givenTree.Node31.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node31.synRate' was not initialized prior to being used
+Variable 'givenTree.Node29.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node29.synRate' was not initialized prior to being used
+Variable 'givenTree.Node7.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node7.synRate' was not initialized prior to being used
+Variable 'givenTree.Node6.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node6.synRate' was not initialized prior to being used
+Variable 'givenTree.Node5.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node5.synRate' was not initialized prior to being used
+Variable 'givenTree.Node39.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node39.synRate' was not initialized prior to being used
+Variable 'givenTree.Node37.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node37.synRate' was not initialized prior to being used
+Variable 'givenTree.Node45.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node45.synRate' was not initialized prior to being used
+Variable 'givenTree.Node52.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node52.synRate' was not initialized prior to being used
+Variable 'givenTree.Node50.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node50.synRate' was not initialized prior to being used
+Variable 'givenTree.Node48.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node48.synRate' was not initialized prior to being used
+Variable 'givenTree.Node44.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node44.synRate' was not initialized prior to being used
+Variable 'givenTree.Node57.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node57.synRate' was not initialized prior to being used
+Variable 'givenTree.Node55.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node55.synRate' was not initialized prior to being used
+Variable 'givenTree.Node43.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node43.synRate' was not initialized prior to being used
+Variable 'givenTree.Node42.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node42.synRate' was not initialized prior to being used
+Variable 'givenTree.Node36.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node36.synRate' was not initialized prior to being used
+Variable 'givenTree.Node4.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node4.synRate' was not initialized prior to being used
+Variable 'givenTree.Node3.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node3.synRate' was not initialized prior to being used
+Variable 'givenTree.Node62.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node62.synRate' was not initialized prior to being used
+Variable 'givenTree.Node2.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node2.synRate' was not initialized prior to being used
+Variable 'givenTree.Node65.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node65.synRate' was not initialized prior to being used
+Variable 'givenTree.Node72.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node72.synRate' was not initialized prior to being used
+Variable 'givenTree.Node80.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node80.synRate' was not initialized prior to being used
+Variable 'givenTree.Node78.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node78.synRate' was not initialized prior to being used
+Variable 'givenTree.Node76.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node76.synRate' was not initialized prior to being used
+Variable 'givenTree.Node91.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node91.synRate' was not initialized prior to being used
+Variable 'givenTree.Node89.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node89.synRate' was not initialized prior to being used
+Variable 'givenTree.Node94.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node94.synRate' was not initialized prior to being used
+Variable 'givenTree.Node88.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node88.synRate' was not initialized prior to being used
+Variable 'givenTree.Node86.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node86.synRate' was not initialized prior to being used
+Variable 'givenTree.Node85.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node85.synRate' was not initialized prior to being used
+Variable 'givenTree.Node83.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node83.synRate' was not initialized prior to being used
+Variable 'givenTree.Node75.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node75.synRate' was not initialized prior to being used
+Variable 'givenTree.Node71.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node71.synRate' was not initialized prior to being used
+Variable 'givenTree.Node70.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node70.synRate' was not initialized prior to being used
+Variable 'givenTree.Node100.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node100.synRate' was not initialized prior to being used
+Variable 'givenTree.Node105.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node105.synRate' was not initialized prior to being used
+Variable 'givenTree.Node104.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node104.synRate' was not initialized prior to being used
+Variable 'givenTree.Node122.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node122.synRate' was not initialized prior to being used
+Variable 'givenTree.Node120.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node120.synRate' was not initialized prior to being used
+Variable 'givenTree.Node118.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node118.synRate' was not initialized prior to being used
+Variable 'givenTree.Node117.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node117.synRate' was not initialized prior to being used
+Variable 'givenTree.Node115.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node115.synRate' was not initialized prior to being used
+Variable 'givenTree.Node113.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node113.synRate' was not initialized prior to being used
+Variable 'givenTree.Node111.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node111.synRate' was not initialized prior to being used
+Variable 'givenTree.Node109.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node109.synRate' was not initialized prior to being used
+Variable 'givenTree.Node103.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node103.synRate' was not initialized prior to being used
+Variable 'givenTree.Node99.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node99.synRate' was not initialized prior to being used
+Variable 'givenTree.Node69.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node69.synRate' was not initialized prior to being used
+Variable 'givenTree.Node133.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node133.synRate' was not initialized prior to being used
+Variable 'givenTree.Node138.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node138.synRate' was not initialized prior to being used
+Variable 'givenTree.Node136.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node136.synRate' was not initialized prior to being used
+Variable 'givenTree.Node132.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node132.synRate' was not initialized prior to being used
+Variable 'givenTree.Node130.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node130.synRate' was not initialized prior to being used
+Variable 'givenTree.Node128.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node128.synRate' was not initialized prior to being used
+Variable 'givenTree.Node142.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node142.synRate' was not initialized prior to being used
+Variable 'givenTree.Node152.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node152.synRate' was not initialized prior to being used
+Variable 'givenTree.Node156.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node156.synRate' was not initialized prior to being used
+Variable 'givenTree.Node155.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node155.synRate' was not initialized prior to being used
+Variable 'givenTree.Node151.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node151.synRate' was not initialized prior to being used
+Variable 'givenTree.Node149.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node149.synRate' was not initialized prior to being used
+Variable 'givenTree.Node147.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node147.synRate' was not initialized prior to being used
+Variable 'givenTree.Node145.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node145.synRate' was not initialized prior to being used
+Variable 'givenTree.Node141.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node141.synRate' was not initialized prior to being used
+Variable 'givenTree.Node127.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node127.synRate' was not initialized prior to being used
+Variable 'givenTree.Node126.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node126.synRate' was not initialized prior to being used
+Variable 'givenTree.Node68.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node68.synRate' was not initialized prior to being used
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 3 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 2 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 2 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 3 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 4 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 2 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 2906-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+givenTree.EU1629701.nonSynRate = 7.198804269706316e-16
+givenTree.EU1629701.synRate = 1.831867990631508e-16
+givenTree.AF2509551.nonSynRate = 2.809200190625045e-16
+givenTree.AF2509551.synRate = 2.970310701919469e-16
+givenTree.Node10.nonSynRate = 0
+givenTree.Node10.synRate = 0
+givenTree.EU1629861.synRate = 0
+givenTree.EU1629861.nonSynRate = 0
+givenTree.EU1629721.synRate = 0
+givenTree.EU1629721.nonSynRate = 0
+givenTree.Node14.nonSynRate = 5.520285837699727e-15
+givenTree.Node14.synRate = 4.635749226458667e-15
+givenTree.EU1629821.synRate = 4.066589727926356e-15
+givenTree.EU1629821.nonSynRate = 3.147990876077367e-15
+givenTree.Node13.nonSynRate = 0
+givenTree.Node13.synRate = 0
+givenTree.Node9.nonSynRate = 0
+givenTree.Node9.synRate = 6.01844214291052e-16
+givenTree.EU1629801.synRate = 1.610664009711068e-15
+givenTree.EU1629801.nonSynRate = 2.483196076165324e-15
+givenTree.EU1629671.nonSynRate = 1.527904810162675e-17
+givenTree.EU1629671.synRate = 0
+givenTree.EU1630011.synRate = 3.334061287394622e-17
+givenTree.EU1630011.nonSynRate = 0
+givenTree.Node22.nonSynRate = 2.5255462188574e-15
+givenTree.Node22.synRate = 2.298434064836799e-15
+givenTree.Node20.nonSynRate = 0
+givenTree.Node20.synRate = 0
+givenTree.EU1629961.synRate = 0
+givenTree.EU1629961.nonSynRate = 9.291830331985697e-16
+givenTree.EU1629741.nonSynRate = 0
+givenTree.EU1629741.synRate = 1.403882274815513e-15
+givenTree.Node25.synRate = 0
+givenTree.Node25.nonSynRate = 4.467746618452326e-16
+givenTree.Node19.synRate = 1.683759919931335e-15
+givenTree.Node19.nonSynRate = 4.141516047837884e-16
+givenTree.EU1629691.synRate = 1.10483586648879e-15
+givenTree.EU1629691.nonSynRate = 5.211788511212142e-16
+givenTree.Node18.nonSynRate = 0
+givenTree.Node18.synRate = 0
+givenTree.Node8.synRate = 0
+givenTree.Node8.nonSynRate = 0
+givenTree.EU1629811.nonSynRate = 7.973119921279428e-15
+givenTree.EU1629811.synRate = 4.339274801212638e-15
+givenTree.EU1629931.nonSynRate = 2.254764300019298e-16
+givenTree.EU1629931.synRate = 4.031203304878631e-16
+givenTree.EU1629631.synRate = 7.326535065458841e-16
+givenTree.EU1629631.nonSynRate = 2.38417046453471e-16
+givenTree.Node31.synRate = 7.609617605290328e-15
+givenTree.Node31.nonSynRate = 3.774517762517024e-15
+givenTree.Node29.nonSynRate = 0
+givenTree.Node29.synRate = 0
+givenTree.Node7.nonSynRate = 5.548287658130432e-16
+givenTree.Node7.synRate = 4.565603049146863e-15
+givenTree.EU1629491.nonSynRate = 6.082109634137548e-16
+givenTree.EU1629491.synRate = 0
+givenTree.Node6.synRate = 4.533903078444786e-15
+givenTree.Node6.nonSynRate = 8.782403991306867e-15
+givenTree.EU1629761.nonSynRate = 2.61980088966045e-15
+givenTree.EU1629761.synRate = 6.604708787526225e-15
+givenTree.Node5.nonSynRate = 0
+givenTree.Node5.synRate = 0
+givenTree.EU1629781.synRate = 7.572712432474414e-15
+givenTree.EU1629781.nonSynRate = 6.623935460146547e-15
+givenTree.EU1629831.synRate = 4.144755355406041e-16
+givenTree.EU1629831.nonSynRate = 0
+givenTree.EU1629851.nonSynRate = 3.199312280985178e-16
+givenTree.EU1629851.synRate = 0
+givenTree.Node39.nonSynRate = 6.486646140024876e-15
+givenTree.Node39.synRate = 8.755212132928958e-15
+givenTree.Node37.nonSynRate = 0
+givenTree.Node37.synRate = 0
+givenTree.EU1629681.synRate = 4.298654089208413e-16
+givenTree.EU1629681.nonSynRate = 0
+givenTree.EU1630021.synRate = 4.146050591454605e-16
+givenTree.EU1630021.nonSynRate = 0
+givenTree.Node45.synRate = 2.29354189207063e-15
+givenTree.Node45.nonSynRate = 2.2427530998507e-15
+givenTree.EU1629281.nonSynRate = 0
+givenTree.EU1629281.synRate = 0
+givenTree.EU1629941.nonSynRate = 2.864857393156926e-15
+givenTree.EU1629941.synRate = 7.183272481566406e-15
+givenTree.EU1629541.nonSynRate = 5.178515728865613e-16
+givenTree.EU1629541.synRate = 1.268535888760903e-15
+givenTree.EU1629461.nonSynRate = 1.434283558523017e-15
+givenTree.EU1629461.synRate = 4.462862500119069e-16
+givenTree.Node52.synRate = 5.949822409405149e-15
+givenTree.Node52.nonSynRate = 2.598621993719904e-15
+givenTree.Node50.synRate = 0
+givenTree.Node50.nonSynRate = 0
+givenTree.Node48.synRate = 6.160523932077603e-15
+givenTree.Node48.nonSynRate = 3.171071380237899e-15
+givenTree.Node44.synRate = 0
+givenTree.Node44.nonSynRate = 0
+givenTree.EU1629991.synRate = 8.346896277096254e-15
+givenTree.EU1629991.nonSynRate = 3.856636918098424e-15
+givenTree.EU1629971.synRate = 0
+givenTree.EU1629971.nonSynRate = 0
+givenTree.EU1629661.synRate = 0
+givenTree.EU1629661.nonSynRate = 0
+givenTree.Node57.nonSynRate = 8.86664109590897e-15
+givenTree.Node57.synRate = 5.011071042719915e-15
+givenTree.Node55.nonSynRate = 0
+givenTree.Node55.synRate = 0
+givenTree.Node43.nonSynRate = 2.133111613271846e-15
+givenTree.Node43.synRate = 0
+givenTree.EU1629981.synRate = 0
+givenTree.EU1629981.nonSynRate = 0
+givenTree.Node42.synRate = 1.586020541342912e-15
+givenTree.Node42.nonSynRate = 2.791253104495971e-15
+givenTree.Node36.synRate = 0
+givenTree.Node36.nonSynRate = 0
+givenTree.Node4.synRate = 1.006534236225899e-14
+givenTree.Node4.nonSynRate = 1.588574267858822e-14
+givenTree.EU1629591.synRate = 2.78212013872622e-15
+givenTree.EU1629591.nonSynRate = 3.878514681497661e-15
+givenTree.Node3.synRate = 0
+givenTree.Node3.nonSynRate = 0
+givenTree.EU1629521.synRate = 0
+givenTree.EU1629521.nonSynRate = 0
+givenTree.EU1629751.synRate = 0.6409504358422651
+givenTree.EU1629751.nonSynRate = 0.6385802567548026
+givenTree.Node62.synRate = 0.5166845350156986
+givenTree.Node62.nonSynRate = 0.5147738804451951
+givenTree.Node2.synRate = 0
+givenTree.Node2.nonSynRate = 0
+givenTree.EU1629921.synRate = 0
+givenTree.EU1629921.nonSynRate = 0
+givenTree.EU1629871.synRate = 0.9617367308264146
+givenTree.EU1629871.nonSynRate = 1.431313482726377
+givenTree.Node65.synRate = 1.447780294605121
+givenTree.Node65.nonSynRate = 1.510536727608375
+givenTree.EU1629581.synRate = 0
+givenTree.EU1629581.nonSynRate = 0
+givenTree.EU1629531.synRate = 1.890450359383173
+givenTree.EU1629531.nonSynRate = 2.24171104344363
+givenTree.Node72.synRate = 1.487583825583714
+givenTree.Node72.nonSynRate = 2.168427514976102
+givenTree.EU1629481.synRate = 17.91479862579759
+givenTree.EU1629481.nonSynRate = 30.07575493244479
+givenTree.EU1629271.synRate = 0
+givenTree.EU1629271.nonSynRate = 0.5539874313331967
+givenTree.EU1629261.synRate = 0.3098366502228279
+givenTree.EU1629261.nonSynRate = 0.1561759499382444
+givenTree.EU1629251.synRate = 0
+givenTree.EU1629251.nonSynRate = 0
+givenTree.Node80.synRate = 0.1458722199660578
+givenTree.Node80.nonSynRate = 0
+givenTree.Node78.synRate = 15.69298461129838
+givenTree.Node78.nonSynRate = 28.37575488906953
+givenTree.Node76.synRate = 0
+givenTree.Node76.nonSynRate = 0
+givenTree.EU1629571.synRate = 0.1523033845595678
+givenTree.EU1629571.nonSynRate = 0.2180231103560807
+givenTree.EU1629401.synRate = 0.146785551003019
+givenTree.EU1629401.nonSynRate = 0.173693111023743
+givenTree.EU1629551.synRate = 0.4798287666352846
+givenTree.EU1629551.nonSynRate = 0.5713810568022843
+givenTree.EU1629391.synRate = 0.3208308400678885
+givenTree.EU1629391.nonSynRate = 0.1596674026361621
+givenTree.EU1629411.synRate = 0
+givenTree.EU1629411.nonSynRate = 0
+givenTree.Node91.synRate = 0
+givenTree.Node91.nonSynRate = 0
+givenTree.Node89.synRate = 0.4894488638894118
+givenTree.Node89.nonSynRate = 0.4690612063176611
+givenTree.EU1629421.synRate = 0
+givenTree.EU1629421.nonSynRate = 0.0002758234641002314
+givenTree.EU1629431.synRate = 0.002681380954263149
+givenTree.EU1629431.nonSynRate = 0
+givenTree.Node94.synRate = 0
+givenTree.Node94.nonSynRate = 0
+givenTree.Node88.synRate = 0
+givenTree.Node88.nonSynRate = 0
+givenTree.Node86.synRate = 0.3467572641815603
+givenTree.Node86.nonSynRate = 0.3154094245833082
+givenTree.EU1629561.synRate = 0
+givenTree.EU1629561.nonSynRate = 0
+givenTree.Node85.synRate = 0
+givenTree.Node85.nonSynRate = 0
+givenTree.Node83.synRate = 3.96606229322189
+givenTree.Node83.nonSynRate = 3.400905861737206
+givenTree.Node75.synRate = 0
+givenTree.Node75.nonSynRate = 0
+givenTree.Node71.synRate = 1.285399234962689
+givenTree.Node71.nonSynRate = 1.962742452220879
+givenTree.EU1629511.synRate = 0
+givenTree.EU1629511.nonSynRate = 0
+givenTree.Node70.synRate = 0.08033430105320319
+givenTree.Node70.nonSynRate = 0.2174274041728225
+givenTree.EU1629451.synRate = 1.638480452395482e-16
+givenTree.EU1629451.nonSynRate = 2.877744706798727e-16
+givenTree.EU1629291.synRate = 2.370709925027233e-16
+givenTree.EU1629291.nonSynRate = 2.752681845851934e-16
+givenTree.Node100.synRate = 0
+givenTree.Node100.nonSynRate = 0
+givenTree.EU1629951.synRate = 2.838047165567545e-16
+givenTree.EU1629951.nonSynRate = 0
+givenTree.EU1629351.synRate = 2.642954686882164e-16
+givenTree.EU1629351.nonSynRate = 0.001747993565438017
+givenTree.Node105.synRate = 3.899237209732097e-15
+givenTree.Node105.nonSynRate = 0.0008852018696588568
+givenTree.EU1629471.synRate = 4.11669049155717e-15
+givenTree.EU1629471.nonSynRate = 0
+givenTree.Node104.synRate = 0
+givenTree.Node104.nonSynRate = 0
+givenTree.EU1629301.synRate = 0
+givenTree.EU1629301.nonSynRate = 0
+givenTree.EU1629331.synRate = 0
+givenTree.EU1629331.nonSynRate = 0
+givenTree.EU1629441.synRate = 0
+givenTree.EU1629441.nonSynRate = 0.1396757596292282
+givenTree.EU1629361.synRate = 0
+givenTree.EU1629361.nonSynRate = 0.1653760994010008
+givenTree.EU1629381.synRate = 0
+givenTree.EU1629381.nonSynRate = 5.437317858595421e-06
+givenTree.EU1629341.synRate = 0
+givenTree.EU1629341.nonSynRate = 8.051412964231755e-06
+givenTree.EU1629311.synRate = 0
+givenTree.EU1629311.nonSynRate = 1.589899270834247e-05
+givenTree.EU1629321.synRate = 0.000635036445240799
+givenTree.EU1629321.nonSynRate = 0
+givenTree.Node122.synRate = 0.000321588969071782
+givenTree.Node122.nonSynRate = 0
+givenTree.Node120.synRate = 0.0001099806430876487
+givenTree.Node120.nonSynRate = 0
+givenTree.Node118.synRate = 0
+givenTree.Node118.nonSynRate = 0
+givenTree.EU1629371.synRate = 0.005789581090218036
+givenTree.EU1629371.nonSynRate = 0.0008057027574207076
+givenTree.Node117.synRate = 0.004145424963343172
+givenTree.Node117.nonSynRate = 0
+givenTree.Node115.synRate = 0.0001195099739290145
+givenTree.Node115.nonSynRate = 0
+givenTree.Node113.synRate = 0.0007749342357007202
+givenTree.Node113.nonSynRate = 0.1484767043296683
+givenTree.Node111.synRate = 0.0001618600777555837
+givenTree.Node111.nonSynRate = 0.006680479275988206
+givenTree.Node109.synRate = 0.0001567923617365119
+givenTree.Node109.nonSynRate = 0.005804209892306614
+givenTree.Node103.synRate = 0.0002645163387350799
+givenTree.Node103.nonSynRate = 0.01142273899054142
+givenTree.Node99.synRate = 0
+givenTree.Node99.nonSynRate = 0
+givenTree.Node69.synRate = 0.2368793559583168
+givenTree.Node69.nonSynRate = 0.3032321318151952
+givenTree.EU1629911.synRate = 0
+givenTree.EU1629911.nonSynRate = 0
+givenTree.EU1630041.synRate = 0
+givenTree.EU1630041.nonSynRate = 0
+givenTree.EU1629611.synRate = 6.594463081230526e-16
+givenTree.EU1629611.nonSynRate = 9.883516964254978e-16
+givenTree.EU1629621.synRate = 7.397315713754404e-16
+givenTree.EU1629621.nonSynRate = 8.851903964889716e-16
+givenTree.Node133.synRate = 0
+givenTree.Node133.nonSynRate = 0
+givenTree.EU1629901.synRate = 0
+givenTree.EU1629901.nonSynRate = 0.1615512963864552
+givenTree.EU1629651.synRate = 0.00304702669181489
+givenTree.EU1629651.nonSynRate = 0.004140541119895764
+givenTree.EU1629841.synRate = 0
+givenTree.EU1629841.nonSynRate = 0
+givenTree.Node138.synRate = 0.005194365542341235
+givenTree.Node138.nonSynRate = 0
+givenTree.Node136.synRate = 0.005076349399177347
+givenTree.Node136.nonSynRate = 0.2725356188207398
+givenTree.Node132.synRate = 0.002777584268627004
+givenTree.Node132.nonSynRate = 0.0892235561702881
+givenTree.Node130.synRate = 0.0007364695260963828
+givenTree.Node130.nonSynRate = 0.02365740289910287
+givenTree.Node128.synRate = 0
+givenTree.Node128.nonSynRate = 0
+givenTree.EU1629731.synRate = 0.3175084312108821
+givenTree.EU1629731.nonSynRate = 0.003502997325754079
+givenTree.EU1629791.synRate = 0
+givenTree.EU1629791.nonSynRate = 0
+givenTree.Node142.synRate = 0.1736398356441801
+givenTree.Node142.nonSynRate = 0
+givenTree.EU1629601.synRate = 0
+givenTree.EU1629601.nonSynRate = 0.3841449394094683
+givenTree.EU1629891.synRate = 0.3942025415370328
+givenTree.EU1629891.nonSynRate = 0.6504909431462409
+givenTree.EU1629711.synRate = 0.07506933833878829
+givenTree.EU1629711.nonSynRate = 0
+givenTree.EU1629881.synRate = 0
+givenTree.EU1629881.nonSynRate = 0
+givenTree.EU1629771.synRate = 0.6294106064128312
+givenTree.EU1629771.nonSynRate = 0.4792938730240597
+givenTree.Node152.synRate = 0.1128566994834639
+givenTree.Node152.nonSynRate = 0.0801659370064399
+givenTree.EU1630031.synRate = 0
+givenTree.EU1630031.nonSynRate = 0
+givenTree.EU1629501.synRate = 0
+givenTree.EU1629501.nonSynRate = 0
+givenTree.Node156.synRate = 0.319695108545306
+givenTree.Node156.nonSynRate = 0
+givenTree.EU1629641.synRate = 0
+givenTree.EU1629641.nonSynRate = 0.0006348897983545285
+givenTree.Node155.synRate = 0
+givenTree.Node155.nonSynRate = 0
+givenTree.Node151.synRate = 0
+givenTree.Node151.nonSynRate = 0.05492035615222131
+givenTree.Node149.synRate = 0
+givenTree.Node149.nonSynRate = 0
+givenTree.Node147.synRate = 0.282807970507956
+givenTree.Node147.nonSynRate = 0.08049144855208923
+givenTree.Node145.synRate = 0
+givenTree.Node145.nonSynRate = 0.2891678833561926
+givenTree.Node141.synRate = 0.5331862115262999
+givenTree.Node141.nonSynRate = 0.4800640623902144
+givenTree.Node127.synRate = 0
+givenTree.Node127.nonSynRate = 0.1103568569153437
+givenTree.EU1630001.synRate = 0.1446529078296534
+givenTree.EU1630001.nonSynRate = 0
+givenTree.Node126.synRate = 0.6561940009986936
+givenTree.Node126.nonSynRate = 0.5988526686059187
+givenTree.Node68.synRate = 0.3447251521942051
+givenTree.Node68.nonSynRate = 0.5987642074380068
+Optimization finished in 9 loop passes.
+12895 likelihood evaluation calls and 23313 matrix exponentiations calls were made
+
+Variable 'categoriesUsed' was not initialized prior to being used
+Variable 'A_DISTANCE_METHOD' was not initialized prior to being used
+Overwritten previously defined function:'_computeSNSSites'
+Variable 'lastDepth' was not initialized prior to being used
+Variable 'DEFAULT_FILE_SAVE_NAME' was not initialized prior to being used
+Overwritten previously defined function:'PostOrderAVL2StringDL'
+Overwritten previously defined function:'PostOrderAVL2StringAnnotate'
+Overwritten previously defined function:'PostOrderAVL2StringAnnotateAux'
+Overwritten previously defined function:'PostOrderAVL2String'
+Overwritten previously defined function:'PostOrderAVL2StringDistances'
+Overwritten previously defined function:'KillInternalZeroBranchLengths'
+Overwritten previously defined function:'TreeAVL2String'
+Overwritten previously defined function:'subtreeAVLStr'
+Overwritten previously defined function:'InsertANode'
+Overwritten previously defined function:'ModifyDepth'
+Overwritten previously defined function:'echoAVL'
+Overwritten previously defined function:'selectATreeBranch'
+Overwritten previously defined function:'computeTreeSplits'
+Overwritten previously defined function:'_findMRCA'
+Overwritten previously defined function:'_parsimonyAncestralMapping'
+Overwritten previously defined function:'ComputeCOT'
+Overwritten previously defined function:'PathDistanceToRoot'
